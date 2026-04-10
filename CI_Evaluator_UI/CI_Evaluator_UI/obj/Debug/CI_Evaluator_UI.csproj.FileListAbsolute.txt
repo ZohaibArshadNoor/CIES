@@ -1,0 +1,15 @@
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\bin\Debug\CI_Evaluator_UI.exe.config
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\bin\Debug\CI_Evaluator_UI.exe
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\bin\Debug\CI_Evaluator_UI.pdb
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.csproj.AssemblyReference.cache
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.Form1.resources
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.Properties.Resources.resources
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.csproj.GenerateResource.cache
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.csproj.CoreCompileInputs.cache
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.exe
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.pdb
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.exe.config
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\bin\Debug\CI_Evaluator_UI.exe.manifest
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\bin\Debug\CI_Evaluator_UI.application
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.exe.manifest
+D:\Project SC\CI_Evaluator_UI\CI_Evaluator_UI\obj\Debug\CI_Evaluator_UI.application
